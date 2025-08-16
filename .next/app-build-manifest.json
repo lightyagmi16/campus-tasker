@@ -1,0 +1,98 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-5c9b80001f098776.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-876e344a3def72b6.js",
+      "static/chunks/app/_not-found/page-c90cf8bb5cca3ae9.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-5c9b80001f098776.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-876e344a3def72b6.js",
+      "static/css/148630eae0b340fd.css",
+      "static/chunks/app/layout-8204287fbf76deb3.js"
+    ],
+    "/chat/[taskId]/page": [
+      "static/chunks/webpack-5c9b80001f098776.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-876e344a3def72b6.js",
+      "static/chunks/354-419861c621dc9b88.js",
+      "static/chunks/134-0837b1c662caa854.js",
+      "static/chunks/app/chat/[taskId]/page-0999e2b5c4d1e27a.js"
+    ],
+    "/post/page": [
+      "static/chunks/webpack-5c9b80001f098776.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-876e344a3def72b6.js",
+      "static/chunks/354-419861c621dc9b88.js",
+      "static/chunks/134-0837b1c662caa854.js",
+      "static/chunks/app/post/page-65f0e5b0b6ca4693.js"
+    ],
+    "/auth/callback/page": [
+      "static/chunks/webpack-5c9b80001f098776.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-876e344a3def72b6.js",
+      "static/chunks/354-419861c621dc9b88.js",
+      "static/chunks/app/auth/callback/page-d7b408cbd5fa3445.js"
+    ],
+    "/history/page": [
+      "static/chunks/webpack-5c9b80001f098776.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-876e344a3def72b6.js",
+      "static/chunks/354-419861c621dc9b88.js",
+      "static/chunks/134-0837b1c662caa854.js",
+      "static/chunks/app/history/page-d68278348bf77f09.js"
+    ],
+    "/login/page": [
+      "static/chunks/webpack-5c9b80001f098776.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-876e344a3def72b6.js",
+      "static/chunks/354-419861c621dc9b88.js",
+      "static/chunks/app/login/page-5a3f0fddabe940a3.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-5c9b80001f098776.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-876e344a3def72b6.js",
+      "static/chunks/354-419861c621dc9b88.js",
+      "static/chunks/134-0837b1c662caa854.js",
+      "static/chunks/app/page-7e8b331bbc4a2e15.js"
+    ],
+    "/profile/page": [
+      "static/chunks/webpack-5c9b80001f098776.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-876e344a3def72b6.js",
+      "static/chunks/354-419861c621dc9b88.js",
+      "static/chunks/134-0837b1c662caa854.js",
+      "static/chunks/app/profile/page-79c2a1f766c5693d.js"
+    ],
+    "/task/[id]/page": [
+      "static/chunks/webpack-5c9b80001f098776.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-876e344a3def72b6.js",
+      "static/chunks/354-419861c621dc9b88.js",
+      "static/chunks/134-0837b1c662caa854.js",
+      "static/chunks/app/task/[id]/page-fbb32c5f9dd9d375.js"
+    ],
+    "/chat/page": [
+      "static/chunks/webpack-5c9b80001f098776.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-876e344a3def72b6.js",
+      "static/chunks/354-419861c621dc9b88.js",
+      "static/chunks/134-0837b1c662caa854.js",
+      "static/chunks/app/chat/page-0f061f17a002b04f.js"
+    ]
+  }
+}

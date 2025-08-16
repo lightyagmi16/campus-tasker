@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+html, body { height: 100%; }
+body { @apply bg-gray-100 text-gray-900; }
+.container-app {
+  @apply max-w-[480px] mx-auto min-h-screen bg-white shadow-lg relative;
+}
+.header { @apply sticky top-0 z-10 bg-white/80 backdrop-blur border-b; }
+.bottom-nav {
+  @apply fixed bottom-0 left-1/2 -translate-x-1/2 w-full max-w-[480px] bg-white/90 backdrop-blur border-t;
+  box-shadow: 0 -6px 24px rgba(0,0,0,0.06);
+}
+.fab {
+  @apply fixed bottom-20 right-4 z-10 bg-blue-600 text-white rounded-full w-14 h-14 shadow-xl flex items-center justify-center text-2xl;
+}
+input, textarea { @apply outline-none; }
+a { @apply cursor-pointer; }

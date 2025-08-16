@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/chat/[taskId]/page": "/chat/[taskId]",
+  "/post/page": "/post",
+  "/auth/callback/page": "/auth/callback",
+  "/history/page": "/history",
+  "/login/page": "/login",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/task/[id]/page": "/task/[id]",
+  "/chat/page": "/chat"
+}
