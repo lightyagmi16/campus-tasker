@@ -11,7 +11,7 @@ export default function Login() {
     setBusy(true);
     const { error } = await supabase.auth.signInWithOtp({
       email,
-      options: { emailRedirectTo: `${window.location.origin}/auth/callback` }
+      options: { emailRedirectTo: `${https://campus-tasker-754q.vercel.app/}/auth/callback` }
     });
     setBusy(false);
     if (error) alert(error.message); else alert('Magic link sent. Check inbox.');
