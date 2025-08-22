@@ -7,7 +7,8 @@ async function signEmail() {
 
   const { error } = await supabase.auth.signInWithOtp({
     email,
-    options: { emailRedirectTo: `${siteUrl}/auth/callback` }
+    options: { emailRedirectTo: "https://campus-tasker-754q.vercel.app/auth/callback" }
+
   });
 
   setBusy(false);
