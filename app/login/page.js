@@ -5,10 +5,13 @@ async function signEmail() {
   // Use env variable if available, otherwise fallback to current site
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || window.location.origin;
 
+  // 🔎 Debugging logs
+  console.log("DEBUG: siteUrl =", siteUrl);
+  console.log("DEBUG: supabase =", supabase);
+
   const { error } = await supabase.auth.signInWithOtp({
     email,
     options: { emailRedirectTo: "https://campus-tasker-754q.vercel.app/auth/callback" }
-
   });
 
   setBusy(false);
